@@ -1,4 +1,4 @@
-// This is the first practice on c
+// This is the first practice in c
 #include <stdio.h>
 int main() {
     double weight;
